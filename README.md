@@ -4,7 +4,7 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 
 ## About
 
-Minimal [Vite](https://vitejs.dev) + [React](https://reactjs.org/) sample based on `yarn create @vitejs/app vite-react-typescript-tailwind-sample --template react-ts` including [tailwindcss](https://tailwindcss.com/).
+Template for vite, React + tailwindcss + TypeScript projects with some tools preconfigured.
 
 ![Screenshot](assets/screenshot.png)
 
@@ -28,6 +28,10 @@ Minimal [Vite](https://vitejs.dev) + [React](https://reactjs.org/) sample based 
 - [VS Code settings](https://code.visualstudio.com/)
 
 ## Usage
+
+Create a new project from this template by clicking the "Use this template" button:
+
+![](assets/template-usage.png)
 
 ```bash
 yarn
