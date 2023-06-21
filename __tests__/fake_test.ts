@@ -1,5 +1,7 @@
-export {}
+import { describe, expect, it } from 'vitest'
 
-test('some test should succeed', () => {
-  expect(true).toBeTruthy()
+describe('some fake test', () => {
+  it('should succeed', () => {
+    expect(true).toBeTruthy()
+  })
 })
