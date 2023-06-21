@@ -11,6 +11,7 @@ Template for vite, React + tailwindcss + TypeScript projects with some tools pre
 ### Libraries
 
 - [React 18](https://reactjs.org/)
+- [React Router 6](https://reactrouter.com)
 - [tailwindcss 3](https://tailwindcss.com/)
   - [tailwindcss forms plugin](https://tailwindcss-forms.vercel.app/)
 - [TypeScript 4.9.5](https://www.typescriptlang.org/)
